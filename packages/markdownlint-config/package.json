@@ -1,0 +1,16 @@
+{
+  "name": "hjh-fe-markdownlint-config",
+  "version": "0.0.1",
+  "main": "index.json",
+  "description": "文档规范",
+  "keywords": [
+    "hjh",
+    "markdown",
+    "lint"
+  ],
+  "author": "chenghuai",
+  "license": "ISC",
+  "peerDependencies": {
+    "markdownlint": "^0.28.1"
+  }
+}
