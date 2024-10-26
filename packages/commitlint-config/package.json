@@ -12,5 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^4.5.0"
-  }
+  },
+  "gitHead": "b738931f952fae0cbba6d6280ad29d60884a5671"
 }
