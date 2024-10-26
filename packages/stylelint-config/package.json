@@ -1,6 +1,6 @@
 {
   "name": "hjh-fe-stylelint-config",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "CSS规范",
   "main": "index.js",
   "keywords": [
@@ -22,5 +22,4 @@
     "stylelint": "^14.3.0",
     "stylelint-scss": "^4.1.0"
   }
- 
 }
